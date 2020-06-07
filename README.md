@@ -1,6 +1,7 @@
-# university_times
+# readsh
 
-An android app for university stuff
+Concept of an article sharing app.
+![Imgur](https://i.imgur.com/M5Sdt7Gl.png) ![Imgur](https://i.imgur.com/OeZV8NMl.png)
 
 ## Getting Started
 
